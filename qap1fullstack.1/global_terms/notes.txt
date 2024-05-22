@@ -1,0 +1,25 @@
+
+
+Node.js has several core global objects that are available in all modules, so you don't need to add them explicitly into your code. 
+
+They form the backbone of Node.js programming, providing essential functionalities for building and managing applications.
+
+Here are the three i'm going to use in this QAP: 
+    1. HTTP
+    2. Events
+    3. Filesystem
+
+1. HTTP...The http module is used to create web servers and handle HTTP requests and responses. It is needed to build server-side applications that communicate over the Hypertext Transfer Protocol (HTTP). This module is essential for building web applications, APIs, and any other networked service. Think of HTTP as a receptionist who handles all the visitors and directs them to the right office.
+
+2. Events....The events module provides a way to create and handle custom events, enabling asynchronous communication within your application. The events module is needed for implementing the event-driven architecture that Node is known for. Events allow you to build scalable and responsive applications. Think of it as an events planner who schedules and coordinates various activities. 
+
+3. Filesystem...The fs module is a powerful tool for file and directory manipulation, providing both asynchronous and synchronous methods to handle files. fs supports a wide range of operations, including reading and writing files, managing directories, and using streams for efficient data handling. Think of it as the librarian who manages a huge library and hopefully keeps everything organized. 
+
+
+NOTES...
+    I took around 5 hours to do this assignment. I reviewed class videos and got some help from Jordan. Overall, I found this QAP to be fairly straightforward. 
+
+
+
+
+
